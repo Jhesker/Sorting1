@@ -1,0 +1,6 @@
+SORTING RESULTS---------------
+
+                   Run 1    Run 2    Run 3    Average
+Bubble Sort       5882.0   5695.0   7101.0     6226.0
+Insertion Sort    2939.0   2454.0   2170.0     2521.0
+Quick Sort           5.0      2.0      3.0        3.0
